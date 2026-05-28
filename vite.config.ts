@@ -8,4 +8,6 @@ export default defineConfig({
     react(),
     tailwindcss()
   ],
+
+  base: '/Local_AI_Debugger/',
 })
